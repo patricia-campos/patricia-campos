@@ -1,6 +1,6 @@
 ### Olá! Tudo bem? Eu sou a Patrícia Campos 👋
 
-- ✨ Sou uma profissional em transição de carreira para a área da TI.
+- ✨ Estagiária backend Vem Ser 2022.
 - 🌱 Aprendendo tecnologias de back end
 - 💻 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas
 
