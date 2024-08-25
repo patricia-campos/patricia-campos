@@ -1,7 +1,6 @@
 ### Olá! Tudo bem? Eu sou a Patrícia Campos 👋
 
 - ✨ Analista de Testes/ QA Pleno
-- 
 - 🌱 Desenvolvendo aprendizado em automação de testes
 - 💻 Graduada em Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul
 - 🤖 Cursando Pós Graduação em Automação de Testes - Vincit
