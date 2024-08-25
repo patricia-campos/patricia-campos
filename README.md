@@ -1,8 +1,11 @@
 ### Olá! Tudo bem? Eu sou a Patrícia Campos 👋
 
-- ✨ Analista de Testes/ QA Jr.
+- ✨ Analista de Testes/ QA Pleno
+- 
 - 🌱 Desenvolvendo aprendizado em automação de testes
-- 💻 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas
+- 💻 Graduada em Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul
+- 🤖 Cursando Pós Graduação em Automação de Testes - Vincit
+- 👩🏻‍💻 Cursando Gestão da Tecnologia da Informação - Unisinos
 
 <div align="center"> 
   <a href = "mailto:patricia.r.cam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
